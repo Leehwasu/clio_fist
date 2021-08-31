@@ -1,3 +1,6 @@
-<?php
+<?
+print "hello";
 print "hello";
 ?>
+<html>
+</html>
