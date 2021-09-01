@@ -1,6 +1,7 @@
-<?
-print "hello";
-print "hello";
+<?php 
+phpinfo();
+print date('Y-m-d H:i:s');
 ?>
-<html>
-</html>
+<input type="file">
+<script>
+</script>
