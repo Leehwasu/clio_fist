@@ -2418,6 +2418,7 @@ h4.graph_title {
   font-style: normal;
   font-weight: normal;
   font-size: 18px;
+  vertical-align: middle;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale; }
 
@@ -4178,8 +4179,8 @@ a.hiddenanchor {
   margin-top: 10px !important; }
 
 .login_content div .reset_pass {
-  margin-top: 13px !important;
-  margin-right: 39px;
+  margin-top: 16px !important;
+  margin-right: 60px;
   float: right; }
 
 .separator {
