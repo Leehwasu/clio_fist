@@ -1,0 +1,1 @@
+<img src="/images/auth_letter.jpg">

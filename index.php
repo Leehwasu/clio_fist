@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>CLIO</title>
+    <title>CLIO - Letter Of Auth </title>
 
     <link href="/gentelella_design/vendors/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
     <link href="/gentelella_design/vendors/font-awesome/css/font-awesome.min.css" rel="stylesheet">
@@ -24,7 +24,7 @@
         <div class="animate form login_form">
           <section class="login_content">
             <form>
-              <h1>CLIO</h1>
+              <h1>수권서관리 시스템</h1>
               <div>
                 <input type="text" class="form-control" placeholder="아이디" required="" />
               </div>

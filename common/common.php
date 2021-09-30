@@ -2,6 +2,12 @@
 // 세션 세팅
 session_start();
 
+//test
+$_SESSION['user_name'] = '김윤철';
+$_SESSION['user_id'] = 'yoonchul';
+$_SESSION['user_no'] = '1';
+$_SESSION['team_name'] = '디지털솔루션팀';
+
 // 불러올 파일
 include 'config.php';
 include 'db.php';
