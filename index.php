@@ -23,16 +23,16 @@
       <div class="login_wrapper">
         <div class="animate form login_form">
           <section class="login_content">
-            <form>
+            <form method="post" action="/common/login_ok.php">
               <h1>수권서관리 시스템</h1>
               <div>
-                <input type="text" class="form-control" placeholder="아이디" required="" />
+                <input type="text" class="form-control" name='userid' placeholder="아이디" required="" />
               </div>
               <div>
-                <input type="password" class="form-control" placeholder="비밀번호" required="" />
+                <input type="password" class="form-control" name ='userpw' placeholder="비밀번호" required="" />
               </div>
               <div>
-                <a class="btn btn-default submit" href="/user/dashboard">로그인</a>
+              <button type="submit" id="btn" >로그인</button>
                 <a class="reset_pass" href="#">비밀번호 찾기</a>
               </div>
 
